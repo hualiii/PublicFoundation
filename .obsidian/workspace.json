@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "00be36251b50fd42",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccdcfd3bf21442db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d1b25ca7ea3bbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律/法律.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4117378bc3bd73b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "932f94381e296c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddda81730f0acfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21d655cb68f3e60f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "转移",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2e040eb64895af9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e013d55c6abe1b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d392266183035b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b4a5c633c5f4b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "法律/法律.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9abeb573dbc9fc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "法律/法律.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed72996a75048571",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee2a9d831e5df7f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "法律/法律.md"
+              }
+            }
+          },
+          {
+            "id": "ade057a0cde99c9b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "1d1b25ca7ea3bbb8",
+  "lastOpenFiles": [
+    "公共基础.md",
+    "非法/非法.md",
+    "非法/笔记/科技常识.md",
+    "16、科技常识.pdf",
+    "15、2022.10.26 理论攻坚-管理 张启慧（讲义 笔记）（【山东】2023事业单位系统班图书大礼包2期）.pdf",
+    "非法/笔记/经济知识.md",
+    "非法/笔记/管理.md",
+    "非法/笔记/中国共产党的基本知识.md",
+    "非法/笔记/公文处理.md",
+    "13、公文处理.pdf",
+    "05、经济知识.pdf",
+    "04、中国共产党的基本知识.pdf",
+    "非法/笔记/马克思主义哲学.md",
+    "01、马克思主义哲学.pdf",
+    "未命名.canvas",
+    "18、民事诉讼法.pdf",
+    "17、刑事诉讼法.pdf",
+    "法律/笔记/行政法.md",
+    "法律/笔记/刑法.md",
+    "法律/笔记/民法典/民法典-人格权和侵权责任.md",
+    "法律/法律.md",
+    "法律/笔记/民事诉讼法.md",
+    "法律/笔记/经济法.md",
+    "法律/笔记/刑事诉讼.md",
+    "16、经济法.pdf",
+    "未命名.md",
+    "13、刑法.pdf",
+    "Excalidraw/Drawing 2024-06-03 20.29.53.excalidraw.md",
+    "法律/笔记/宪法.md",
+    "```html```.canvas",
+    "法律/笔记/法理学.md",
+    "07、民法典之总则.pdf.md",
+    "法律/笔记/民法典/民法典-婚姻家庭和继承.md",
+    "法律/笔记/民法典/未命名 1.md",
+    "法律/笔记/民法典/民典法.md",
+    "法律/笔记/民法典/民法典-总则.md",
+    "法律/笔记/民法典/民法典-物权.md",
+    "Excalidraw/Drawing 2024-06-02 17.10.19.excalidraw.md",
+    "法律/思维导图/行政法.canvas",
+    "未命名 1.canvas",
+    "文件/法律/行政法/行政法_04.jpg",
+    "文件/法律/行政法/行政法_03.jpg",
+    "文件/法律/行政法/行政法_02.jpg",
+    "文件/法律/行政法/行政法_01.jpg",
+    "文件/法律/行政法/行政法_11.jpg",
+    "XINAG02.jpg",
+    "文件/法律/行政法/行政法_06.jpg",
+    "文件/法律/行政法/行政法_10.jpg",
+    "文件/法律/行政法/行政法_09.jpg",
+    "文件/法律/行政法/行政法_08.jpg"
+  ]
+}

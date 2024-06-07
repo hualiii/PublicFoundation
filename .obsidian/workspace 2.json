@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a236470f5e588436",
+    "type": "split",
+    "children": [
+      {
+        "id": "046a2e589f160f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78734f63fad67670",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e8aa7983860eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a2356f6b58cbdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46dc834e05d1be65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d74de8b5f9cba006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aaea97a389e5b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c4116b2ca6026ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7305ea1789d2efb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38369e2ba50d111",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "568ae74360ef6d80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebaffbb2fa60770",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9b561fe83db0d31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ba898006d4cd131a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "78734f63fad67670",
+  "lastOpenFiles": [
+    "法律/笔记/宪法.md",
+    "法律/笔记/法理学.md",
+    "法律/笔记/民法典/民法典-人格权和侵权责任.md",
+    "法律/笔记/民法典/民法典-婚姻家庭和继承.md",
+    "法律/笔记/民法典/民法典-总则.md",
+    "法律/笔记/民法典/民法典-合同.md",
+    "法律/笔记/民法典/民法典-物权.md"
+  ]
+}

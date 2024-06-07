@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e98ebbdc16e76d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef9b1a3a1ed380c",
+        "type": "tabs",
+        "dimension": 50.95948827292111,
+        "children": [
+          {
+            "id": "a8f1bb2d738fd00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非法/笔记/中国共产党的基本知识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3746692d830a1025",
+        "type": "tabs",
+        "dimension": 49.040511727078886,
+        "children": [
+          {
+            "id": "edcfee5deb9b05a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04、中国共产党的基本知识.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96e139e02ab896ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "6652e63aa0e2ae87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525fa31c647dc71a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b9bcba6ba2ec5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc7c44ca7be35498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "efea7e5c2fd62d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cdaa913d7614301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bccb5f87c71104a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04、中国共产党的基本知识.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eef7cf66b8d8efa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04、中国共产党的基本知识.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26f6deb6aa962b9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0261e5ea48fc40a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "49a206449d4e2a93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04、中国共产党的基本知识.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "edcfee5deb9b05a6",
+  "lastOpenFiles": [
+    "非法/笔记/中国共产党的基本知识.md",
+    "04、中国共产党的基本知识.pdf"
+  ]
+}
