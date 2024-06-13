@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "40d7ffb30b0392bc",
+    "id": "6d67c9df96a5dc4c",
     "type": "split",
     "children": [
       {
-        "id": "661a0bcdbc1c5af5",
+        "id": "34bff0ef7ff9f537",
         "type": "tabs",
         "children": [
           {
-            "id": "80604f25bd430b7a",
+            "id": "b4dbbf91f059492d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "```html```.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "非法/笔记/常识积累/物理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -28,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "52bf638deef59d7c",
+    "id": "4ba77355598d743d",
     "type": "split",
     "children": [
       {
-        "id": "1aab511a2cefe729",
+        "id": "22f5f4aa72ab9681",
         "type": "tabs",
         "children": [
           {
-            "id": "8f742a6173f7ea65",
+            "id": "a1db84b2d1465206",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +44,7 @@
             }
           },
           {
-            "id": "0b7c0de99c703380",
+            "id": "8ded6497f1024922",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +59,7 @@
             }
           },
           {
-            "id": "f26675475d992414",
+            "id": "3cc160de21ef14b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,20 +73,20 @@
     "width": 300
   },
   "right": {
-    "id": "61191a6cef20c8fe",
+    "id": "7d619e21924f69e5",
     "type": "split",
     "children": [
       {
-        "id": "b3ba91592aa3e010",
+        "id": "9a8f2234faa8dbc8",
         "type": "tabs",
         "children": [
           {
-            "id": "760f4bea0f1cd49c",
+            "id": "8ef5b955197f0f9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "```html```.canvas",
+                "file": "非法/笔记/常识积累/物理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +98,19 @@
             }
           },
           {
-            "id": "d096033646b35064",
+            "id": "de30a454cc636b48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "```html```.canvas",
+                "file": "非法/笔记/常识积累/物理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51ea58eb306ea67f",
+            "id": "90173f2ac84b50b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +121,7 @@
             }
           },
           {
-            "id": "c1e51e3d32a6e6b7",
+            "id": "eebabe6f490ce40a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -135,17 +133,16 @@
             }
           },
           {
-            "id": "df3ae8da71c4df84",
+            "id": "7e20ba6c22eb75ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "```html```.canvas"
+                "file": "非法/笔记/常识积累/物理.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,14 +157,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80604f25bd430b7a",
+  "active": "b4dbbf91f059492d",
   "lastOpenFiles": [
-    "temp/index.md",
-    "```html```.canvas",
-    "temp",
-    "法律/笔记/刑法.md",
-    "13、刑法.pdf",
-    "16、经济法.pdf",
-    "法律/笔记/行政法.md"
+    "非法/笔记/日常积累常识.md",
+    "非法/笔记/常识积累/物理.md",
+    "非法/笔记/常识积累",
+    "非法/笔记/管理.md",
+    "非法/笔记/公文处理.md",
+    "非法/笔记/科技常识.md",
+    "非法/笔记/马克思主义哲学.md",
+    "非法/笔记/历史知识.md"
   ]
 }

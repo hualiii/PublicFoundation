@@ -1,42 +1,88 @@
 {
   "main": {
-    "id": "40d7ffb30b0392bc",
+    "id": "1310735a1ae65424",
     "type": "split",
     "children": [
       {
-        "id": "661a0bcdbc1c5af5",
+        "id": "05f32e7bb9bd3f72",
         "type": "tabs",
         "children": [
           {
-            "id": "80604f25bd430b7a",
+            "id": "51d92071bfa61cda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "```html```.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "非法/非法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
+          },
+          {
+            "id": "b5d45e790eaac7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非法/非法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34de7015ebd0dd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非法/非法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482b05edf705acba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非法/笔记/科技常识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2567029afb359228",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "52bf638deef59d7c",
+    "id": "6bdd09f593cfed5f",
     "type": "split",
     "children": [
       {
-        "id": "1aab511a2cefe729",
+        "id": "62c9db9299b1bc0b",
         "type": "tabs",
         "children": [
           {
-            "id": "8f742a6173f7ea65",
+            "id": "8bb53cd0428c8c08",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +92,7 @@
             }
           },
           {
-            "id": "0b7c0de99c703380",
+            "id": "2c07adfba2e445d8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +107,7 @@
             }
           },
           {
-            "id": "f26675475d992414",
+            "id": "7d12036b75f7eba1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,44 +121,42 @@
     "width": 300
   },
   "right": {
-    "id": "61191a6cef20c8fe",
+    "id": "d31fc09b2b1498c7",
     "type": "split",
     "children": [
       {
-        "id": "b3ba91592aa3e010",
+        "id": "e62c815680adbb80",
         "type": "tabs",
         "children": [
           {
-            "id": "760f4bea0f1cd49c",
+            "id": "09c0f167abbafeb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "```html```.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d096033646b35064",
+            "id": "0b7ec0925911730a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "```html```.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51ea58eb306ea67f",
+            "id": "1740d6347c788c95",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +167,7 @@
             }
           },
           {
-            "id": "c1e51e3d32a6e6b7",
+            "id": "35495cd7f1b6f748",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -135,22 +179,18 @@
             }
           },
           {
-            "id": "df3ae8da71c4df84",
+            "id": "301c522861827c7c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "```html```.canvas"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +200,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80604f25bd430b7a",
+  "active": "2567029afb359228",
   "lastOpenFiles": [
-    "temp/index.md",
-    "```html```.canvas",
-    "temp",
-    "法律/笔记/刑法.md",
-    "13、刑法.pdf",
-    "16、经济法.pdf",
-    "法律/笔记/行政法.md"
+    "Excalidraw/Drawing 2024-06-12 14.56.06.excalidraw.md",
+    "非法/笔记/日常积累常识.md",
+    "非法/笔记/科技常识.md",
+    "非法/非法.md"
   ]
 }
