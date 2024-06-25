@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "图片遮盖": "",
+      "填空题": "",
+      "正-->反(ankigaokao)": "",
+      "红宝书": "",
+      "问答题": "",
+      "问答题（同时生成翻转的卡片<可选>）": "",
+      "问答题（同时生成翻转的卡片）": "",
+      "问答题（输入答案）": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "图片遮盖": "遮盖",
+      "填空题": "文字",
+      "正-->反(ankigaokao)": "问题",
+      "红宝书": "单词",
+      "问答题": "正面",
+      "问答题（同时生成翻转的卡片<可选>）": "正面",
+      "问答题（同时生成翻转的卡片）": "正面",
+      "问答题（输入答案）": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Excalidraw": "",
+      "法律": "",
+      "非法": "",
+      "法律/笔记": "",
+      "非法/笔记": "",
+      "法律/笔记/民法典": "",
+      "非法/笔记/常识积累": "",
+      "Anki": ""
+    },
+    "FOLDER_TAGS": {
+      "Excalidraw": "",
+      "法律": "",
+      "非法": "",
+      "法律/笔记": "",
+      "非法/笔记": "",
+      "法律/笔记/民法典": "",
+      "非法/笔记/常识积累": "",
+      "Anki": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DEL",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": true,
+      "Add Context": false,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": true,
+      "ID Comments": true,
+      "Add Obsidian Tags": true
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md",
+      "**/*.公共基础.md",
+      "法律/**",
+      "非法/**",
+      "Excalidraw/**"
+    ]
+  },
+  "Added Media": [
+    "测试_20240613_105323.xlsx",
+    "FOTRIC 860MiX 营销培训.png"
+  ],
+  "File Hashes": {
+    "公共基础.md": "405925c966881682355f7d9e30a72a62",
+    "Anki/法律.md": "b48aa3df97f9e017805ee4e64f73006b"
+  },
+  "fields_dict": {
+    "图片遮盖": [
+      "遮盖",
+      "图片",
+      "标题",
+      "背面额外",
+      "注释"
+    ],
+    "填空题": [
+      "文字",
+      "背面额外"
+    ],
+    "正-->反(ankigaokao)": [
+      "问题",
+      "《》",
+      "答案",
+      "评论",
+      "举例",
+      "拓展",
+      "更多关于Anki×高考请关注微信公众号ankigaokao"
+    ],
+    "红宝书": [
+      "单词",
+      "音标",
+      "解释",
+      "红宝书",
+      "字源",
+      "不择手段背单词",
+      "趣味全助记",
+      "Audio"
+    ],
+    "问答题": [
+      "正面",
+      "背面"
+    ],
+    "问答题（同时生成翻转的卡片<可选>）": [
+      "正面",
+      "背面",
+      "增加翻转的卡片"
+    ],
+    "问答题（同时生成翻转的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "问答题（输入答案）": [
+      "正面",
+      "背面"
+    ]
+  }
+}

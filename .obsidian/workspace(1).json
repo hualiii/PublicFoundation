@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d9e07098132f66",
+        "id": "f40beec61c2c9048",
         "type": "tabs",
         "children": [
           {
-            "id": "84e34ede0c744917",
+            "id": "8d120efb2e266058",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "法律/笔记/刑法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e013d55c6abe1b9",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "法律/笔记/刑法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "法律/笔记/刑法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "法律/笔记/刑法.md"
+              }
             }
           },
           {
@@ -146,48 +154,51 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "84e34ede0c744917",
+  "active": "8d120efb2e266058",
   "lastOpenFiles": [
+    "法律/笔记/宪法.md",
+    "Anki/法律.md",
+    "测试_20240613_105323.xlsx",
+    "测试_20240613_113410 1.xlsx",
+    "106373_济南局2024年招聘公告（三）附件.pdf",
+    "FOTRIC 860MiX 营销培训.png",
+    "FOTRIC 860MiX.png",
+    "测试_20240613_113410.xlsx",
+    "Anki",
+    "非法/笔记/日常积累常识.md",
+    "非法/笔记/常识积累/卡片记忆.md",
+    "非法/非法.md",
+    "公共基础.md",
+    "法律/笔记/经济法.md",
+    "法律/笔记/民事诉讼法.md",
+    "法律/笔记/刑法.md",
     "非法/笔记/历史知识.md",
     "09、历史知识.pdf",
-    "非法/非法.md",
     "非法/笔记/山东省情.md",
     "17、山东省情.pdf",
     "非法/笔记/公文处理.md",
     "非法/笔记/管理.md",
     "法律/法律.md",
-    "公共基础.md",
     "非法/笔记/科技常识.md",
     "16、科技常识.pdf",
     "15、2022.10.26 理论攻坚-管理 张启慧（讲义 笔记）（【山东】2023事业单位系统班图书大礼包2期）.pdf",
     "非法/笔记/经济知识.md",
     "非法/笔记/中国共产党的基本知识.md",
     "13、公文处理.pdf",
-    "05、经济知识.pdf",
-    "04、中国共产党的基本知识.pdf",
     "非法/笔记/马克思主义哲学.md",
-    "01、马克思主义哲学.pdf",
     "未命名.canvas",
-    "18、民事诉讼法.pdf",
-    "17、刑事诉讼法.pdf",
     "法律/笔记/行政法.md",
-    "法律/笔记/刑法.md",
     "法律/笔记/民法典/民法典-人格权和侵权责任.md",
-    "法律/笔记/民事诉讼法.md",
-    "法律/笔记/经济法.md",
     "法律/笔记/刑事诉讼.md",
     "未命名.md",
     "Excalidraw/Drawing 2024-06-03 20.29.53.excalidraw.md",
-    "法律/笔记/宪法.md",
     "```html```.canvas",
     "法律/笔记/法理学.md",
     "07、民法典之总则.pdf.md",
-    "法律/笔记/民法典/民法典-婚姻家庭和继承.md",
-    "法律/笔记/民法典/未命名 1.md",
-    "法律/笔记/民法典/民典法.md",
     "法律/思维导图/行政法.canvas",
     "未命名 1.canvas",
     "文件/法律/行政法/行政法_04.jpg",
@@ -197,8 +208,6 @@
     "文件/法律/行政法/行政法_11.jpg",
     "XINAG02.jpg",
     "文件/法律/行政法/行政法_06.jpg",
-    "文件/法律/行政法/行政法_10.jpg",
-    "文件/法律/行政法/行政法_09.jpg",
-    "文件/法律/行政法/行政法_08.jpg"
+    "文件/法律/行政法/行政法_10.jpg"
   ]
 }

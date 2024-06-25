@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6ffecd3e761041f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9956dcc3791a48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7801fd34960791",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13e5d2b2e36900d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8600424ce770182b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c14dc8d003f4761",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f33cdb4529337af8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36f1d1fe25f126b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7052ee483215639e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0e5e566b2c7f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f970d25b14b13dd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9397b3f1746646",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04ec2ed38af30bd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a15f21c964171284",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ec4f6d56bece98e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "card-note:Search Notes": false
+    }
+  },
+  "active": "3d7801fd34960791",
+  "lastOpenFiles": [
+    "非法/笔记/常识积累/卡片记忆.md",
+    "Excalidraw/Drawing 2024-06-17 11.27.13.excalidraw.md",
+    "非法/笔记/常识积累/文学.md",
+    "非法/笔记/常识积累/历史.md",
+    "非法/笔记/常识积累/传统.md",
+    "非法/笔记/常识积累/物理.md",
+    "非法/笔记/常识积累/生物.md",
+    "非法/笔记/经济知识.md",
+    "非法/笔记/中国共产党的基本知识.md",
+    "非法/笔记/历史知识.md",
+    "非法/笔记/科技常识.md",
+    "非法/笔记/公文处理.md"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8a6d9571057495d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f55d80663061c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0077cf892632d3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律/笔记/刑法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68fc352d999b06e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6607c7d21384f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96c181a2d727e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cae59042311d6815",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "530b2c485a58f2f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "878b4bd5e39e257d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ee327196ca3ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9149c086e2ee9b4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "法律/笔记/刑法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecb72fce2da9fe96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "法律/笔记/刑法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dc3c34ee99485ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d24ece31ffd5e28a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ac5d3c827e71e8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "法律/笔记/刑法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0077cf892632d3a8",
+  "lastOpenFiles": [
+    "法律/笔记/民法典/民典法.md",
+    "法律/笔记/民法典/民法典-合同.md",
+    "法律/法律.md",
+    "未命名.canvas",
+    "Anki/法律.md",
+    "FOTRIC 860MiX 营销培训.png",
+    "FOTRIC 860MiX.png",
+    "106373_济南局2024年招聘公告（三）附件.pdf",
+    "测试_20240613_105323.xlsx",
+    "测试_20240613_113410 1.xlsx",
+    "测试_20240613_113410.xlsx"
+  ]
+}
